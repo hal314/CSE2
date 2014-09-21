@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class BigMac{
  //set up main method   
     public static void main(String [] args){
-        Scanner myScanner; //Declare a instance of of the Scanner object
+        Scanner myScanner; //Declare a instance of the Scanner object
         myScanner = new Scanner( System.in );//call the Scanner constructor
         System.out.print("Enter the number of Big Macs(an integer > 0): ");//ask user for input
         int nBigMacs = myScanner.nextInt();//accept user input

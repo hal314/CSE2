@@ -6,7 +6,7 @@
 //It then prints out the total cost of the meal. 
 //Big Macs still cost $2.22 each,  and an order of fries costs $2.15. 
 
-//import sacanner
+//import scanner
 import java.util.Scanner;
 
 //set up the class
