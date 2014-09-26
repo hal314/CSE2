@@ -24,7 +24,7 @@ public class TimePadding{
             if (Seconds<=0)
             {
                 System.out.println("You did not enter a positive int");//print out an error message
-                return;//;eaves the program, the program terminates
+                return;//leaves the program, the program terminates
             }
             else
             {
